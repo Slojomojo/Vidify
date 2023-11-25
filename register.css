@@ -1,0 +1,81 @@
+body{
+    background-color:whitesmoke;
+}
+
+    .container {
+        border-radius: 5px;
+        background-color:orange;
+        border:0.1px solid white;
+        padding: 20px;
+        margin-left:300px;
+        margin-right:200px;
+        margin-top:130px;
+        border-radius:30px;
+        width:70vh;
+        height:110vh;
+
+}
+input{
+    width:60vh;
+    border-radius:10px;
+    height:7vh;
+    margin-left:15px;
+    margin-top:15px;
+    font-family:sans-serif;
+    border:1px solid ;
+    background-color:whitesmoke;
+  }
+  b{
+    font-family:sans-serif;
+  }
+input [type=text],
+input [type=password]{
+    width:60%;
+    padding:15px;
+    margin:5px 22px;
+    display:inline-black;
+    border:none;
+    background-color:green;
+}
+input[type=text]:focus,
+input[type=password]:focus{
+    background-color:white;
+    outline:none;
+}
+li{
+    font-weight:700px;
+    list-style:none;
+    overflow:hidden;
+    transition:1.3secs;
+    padding:10px 20px;
+    color:white;
+    font-family:sans-serif;
+    font-weight: 700px; 
+}
+h1{
+    font-family: sans-serif;
+}
+
+.register{
+    background-color:rgb(29, 136, 179);
+color:white;
+padding:16px 20px;
+margin:8px 0px;
+border:none;
+cursor:pointer;
+width:100%;
+opacity:0.9;
+border-radius:70px;
+font-family:sans-serif;
+width:70vh;
+}
+
+   
+
+a{
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    margin-left:80px;
+}
